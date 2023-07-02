@@ -1,0 +1,6 @@
+C:\Repos\donations\obj\Debug\netcoreapp3.0\donations.csprojAssemblyReference.cache
+C:\Repos\donations\obj\Debug\netcoreapp3.0\staticwebassets\donations.StaticWebAssets.Manifest.cache
+C:\Repos\donations\obj\Debug\netcoreapp3.0\staticwebassets\donations.StaticWebAssets.xml
+C:\Repos\donations\obj\Debug\netcoreapp3.0\donations.MvcApplicationPartsAssemblyInfo.cache
+C:\Repos\donations\obj\Debug\netcoreapp3.0\donations.AssemblyInfoInputs.cache
+C:\Repos\donations\obj\Debug\netcoreapp3.0\donations.AssemblyInfo.cs
